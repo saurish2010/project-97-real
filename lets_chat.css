@@ -1,0 +1,19 @@
+html{
+    background: linear-gradient(yellow , orange , red , violet , blue , green );
+}
+
+h1{
+    background-color:lightcyan;
+    color:lightslategray;
+    font-family: 'Trykker', serif;
+}
+
+.login_div{
+    background-color: lightgray;
+    color: forestgreen;
+}
+
+iframe{
+    height: 50%;
+    width: 50%;
+}

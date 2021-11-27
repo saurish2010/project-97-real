@@ -1,0 +1,25 @@
+body{
+    background: linear-gradient(red , orange , yellow);
+}
+
+#output{
+	padding: 10px; 
+    width:80%;
+    background-color: darkred; 
+    color: lime;
+    border-radius: 15px;
+    font-size: larger;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+}
+
+.header{
+    background-color: lightskyblue;
+    color: darkblue;
+}
+
+label{
+    background-color: darkorchid;
+    color: lightcyan;
+}
